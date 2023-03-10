@@ -1,0 +1,16 @@
+.TextItem{
+    text-align: center;
+    color: darkblue;
+    list-style: none;
+    padding: 0.2rem;
+  }
+
+.TextItem li {
+  background-color: rgb(219, 223, 221);
+  box-shadow: 0 1px 3px rgb(92, 86, 86);
+  padding: 20px ;
+  color: rgb(16, 15, 15);
+  display: flex;
+  justify-content: space-between;
+  margin: 10px 0;
+}
